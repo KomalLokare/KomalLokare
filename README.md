@@ -1,14 +1,13 @@
 # Hello, I'm CHANGEME
 <a href="https://www.linkedin.com/in/komallokare/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+Detail-oriented professional with 3 years of experience in Quality Assurance, transitioning into cybersecurity with a strong foundation in network security. Completed the Google Cybersecurity Professional Certification and currently pursuing CEH certification. Skilled in network scanning, vulnerability analysis, and security assessment using tools like Nmap, Nessus, and Zenmap. Seeking an entry-level cybersecurity position to apply technical expertise in safeguarding networks and systems
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
