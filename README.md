@@ -18,7 +18,7 @@ Detail-oriented professional with 3 years of experience in Quality Assurance, tr
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Phishing Email Analysis                       | <a href="https://blueteamlabs.online/public/user/983c2cc850412bd9a3b5e9](https://github.com/KomalLokare/Phishing-Email-Analysis">Phishing Email Analysis</a>|
+| Phishing Email Analysis                       | <a href="https://github.com/KomalLokare/Phishing-Email-Analysis">Phishing Email Analysis</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
