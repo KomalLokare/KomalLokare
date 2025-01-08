@@ -2,7 +2,11 @@
 <a href="https://www.linkedin.com/in/komallokare/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Technically proficient Quality Assurance professional with 3 years of experience, Transitioning to Cybersecurity
+Field with CEH Certified, Google Cybersecurity Professional Certificate, Fortinet Cybersecurity
+Fundamentals. Skilled in Python, SQL, Linux and Cybersecurity tools like SIEM, TCPDUMP, Wireshark. Looking
+for a cybersecurity role to apply knowledge of network security, threat intelligence, and incident response,
+Penetration Testing to protect organizations from cyber threats.
 
 ## Objective
 
@@ -14,7 +18,7 @@ Detail-oriented professional with 3 years of experience in Quality Assurance, tr
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Phishing Email Analysis                       | <a href="https://blueteamlabs.online/public/user/983c2cc850412bd9a3b5e9">BlueteamLabs</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
